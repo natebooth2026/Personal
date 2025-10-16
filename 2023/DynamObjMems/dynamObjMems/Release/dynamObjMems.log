@@ -1,0 +1,9 @@
+﻿  lottery.cpp
+C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\DynamObjMems\dynamObjMems\lottery.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ticket.cpp
+C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\DynamObjMems\dynamObjMems\ticket.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 32 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dynamObjMems.vcxproj -> C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\DynamObjMems\Release\dynamObjMems.exe

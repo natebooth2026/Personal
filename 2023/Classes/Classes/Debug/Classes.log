@@ -1,0 +1,3 @@
+﻿  classes.cpp
+C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\Classes\Classes\classes.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Classes.vcxproj -> C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\Classes\Debug\Classes.exe

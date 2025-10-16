@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamObjMems", "dynamObjMems\dynamObjMems.vcxproj", "{81101D00-C208-4693-A912-7F749ACA6AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81101D00-C208-4693-A912-7F749ACA6AC7}.Debug|x64.ActiveCfg = Debug|x64
+		{81101D00-C208-4693-A912-7F749ACA6AC7}.Debug|x64.Build.0 = Debug|x64
+		{81101D00-C208-4693-A912-7F749ACA6AC7}.Debug|x86.ActiveCfg = Debug|Win32
+		{81101D00-C208-4693-A912-7F749ACA6AC7}.Debug|x86.Build.0 = Debug|Win32
+		{81101D00-C208-4693-A912-7F749ACA6AC7}.Release|x64.ActiveCfg = Release|x64
+		{81101D00-C208-4693-A912-7F749ACA6AC7}.Release|x64.Build.0 = Release|x64
+		{81101D00-C208-4693-A912-7F749ACA6AC7}.Release|x86.ActiveCfg = Release|Win32
+		{81101D00-C208-4693-A912-7F749ACA6AC7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78F51FA5-5519-480E-A906-9785A1F2B1B6}
+	EndGlobalSection
+EndGlobal
