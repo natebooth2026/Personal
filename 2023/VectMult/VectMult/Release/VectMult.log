@@ -1,0 +1,9 @@
+﻿  lottery2.cpp
+C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\VectMult\VectMult\lottery2.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\VectMult\VectMult\lottery2.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+  print.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 263 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VectMult.vcxproj -> C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\VectMult\Release\VectMult.exe

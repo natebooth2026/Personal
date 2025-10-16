@@ -1,0 +1,7 @@
+﻿  project.cpp
+C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\StructNamespace\StructNamespace\project.cpp(69,19): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 130 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  StructNamespace.vcxproj -> C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\StructNamespace\Release\StructNamespace.exe
