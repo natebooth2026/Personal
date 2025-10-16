@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PointDynam.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  changeRoom.cpp
+  hideNSeek.cpp
+C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\Pointers\PointDynam\hideNSeek.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\Pointers\PointDynam\changeRoom.cpp(82): warning C4715: 'changeRoom': not all control paths return a value
+  PointDynam.vcxproj -> C:\Users\Tater\OneDrive\Desktop\Disk-1\SCHOOL\CCP, COLLEGE, SAT, ACT\College\Full-Time Semester 1\CS 13012-007\Practice Projects\Pointers\Debug\Pointers.exe
