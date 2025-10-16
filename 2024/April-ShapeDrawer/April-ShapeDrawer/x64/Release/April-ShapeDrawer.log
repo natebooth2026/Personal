@@ -1,0 +1,9 @@
+﻿  drawer.cpp
+C:\Users\Tater\OneDrive\Desktop\April-ShapeDrawer\April-ShapeDrawer\drawer.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\April-ShapeDrawer\April-ShapeDrawer\drawer.cpp(147,7): warning C4101: 'useless': unreferenced local variable
+  Generating code
+  1 of 39 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  April-ShapeDrawer.vcxproj -> C:\Users\Tater\OneDrive\Desktop\April-ShapeDrawer\x64\Release\April-ShapeDrawer.exe
