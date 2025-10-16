@@ -1,0 +1,34 @@
+﻿  game.cpp
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\cards.hpp(83,41): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\cards.hpp(102,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\cards.hpp(368,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'game.cpp')
+  
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(109,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(244,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(246,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(292,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(294,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(308,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(310,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(356,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(372,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(504,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(789,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(795,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(795,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(796,76): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(796,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(797,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(797,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(798,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(798,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\game.cpp(847,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\cards.hpp(87,1): warning C4715: 'hand::operator[]': not all control paths return a value
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\cards.hpp(88,1): warning C4715: 'hand::operator[]': not all control paths return a value
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\OpenGLSetup\cards.hpp(227,1): warning C4715: 'deck::operator[]': not all control paths return a value
+  OpenGLSetup.vcxproj -> C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\MayJuly-UNO\x64\Debug\MayJuly-UNO.exe
