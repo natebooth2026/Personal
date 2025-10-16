@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Tater\OneDrive\Desktop\March-RPS\March-Casino\main.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\March-RPS\March-Casino\main.cpp(139,7): warning C4101: 'useless': unreferenced local variable
+C:\Users\Tater\OneDrive\Desktop\March-RPS\March-Casino\main.cpp(148,7): warning C4101: 'useless': unreferenced local variable
+  Generating code
+  9 of 133 functions ( 6.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  March-Casino.vcxproj -> C:\Users\Tater\OneDrive\Desktop\March-RPS\x64\Release\March-RPS.exe

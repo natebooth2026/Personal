@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Tater\OneDrive\Desktop\March-PreSuf\March-PreSuf\main.cpp(41,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  March-PreSuf.vcxproj -> C:\Users\Tater\OneDrive\Desktop\March-PreSuf\x64\Debug\March-PreSuf.exe

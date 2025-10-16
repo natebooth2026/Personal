@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Tater\OneDrive\Desktop\March-PreSuf\March-PreSuf\main.cpp(41,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  March-PreSuf.vcxproj -> C:\Users\Tater\OneDrive\Desktop\March-PreSuf\x64\Release\March-PreSuf.exe
