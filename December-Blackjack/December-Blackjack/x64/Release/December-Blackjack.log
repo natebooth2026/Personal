@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2024\December-Blackjack\December-Blackjack\main.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2024\December-Blackjack\December-Blackjack\main.cpp(50,11): warning C4101: 'useless': unreferenced local variable
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2024\December-Blackjack\December-Blackjack\main.cpp(516,8): warning C4101: 'useless': unreferenced local variable
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2024\December-Blackjack\December-Blackjack\main.cpp(523,8): warning C4101: 'useless': unreferenced local variable
+  Generating code
+  1 of 271 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  December-Blackjack.vcxproj -> C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2024\December-Blackjack\x64\Release\December-Blackjack.exe
