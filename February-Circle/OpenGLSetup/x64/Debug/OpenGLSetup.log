@@ -1,0 +1,9 @@
+﻿  circle.cpp
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\February-Circle\OpenGLSetup\circle.cpp(39,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\February-Circle\OpenGLSetup\circle.cpp(39,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\February-Circle\OpenGLSetup\circle.cpp(48,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\February-Circle\OpenGLSetup\circle.cpp(48,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\February-Circle\OpenGLSetup\circle.cpp(76,18): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\February-Circle\OpenGLSetup\circle.cpp(81,36): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\February-Circle\OpenGLSetup\circle.cpp(88,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OpenGLSetup.vcxproj -> C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2025\February-Circle\x64\Debug\February-Circle.exe
