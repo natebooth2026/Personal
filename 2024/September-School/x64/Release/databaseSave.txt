@@ -1,0 +1,7 @@
+"Tom MacDonald" 96.000000 2.500000 "CAUTION" 12624
+"Roseanne Barr" 110.000000 1.800000 "FAILING" 11725
+
+"January 26th, 2025" `Database Initalization` -2
+"September 2024" `Database Release` -1
+
+"MUS" 22212 "INTRODUCTION TO RAPPING" 3.000000 "Marshall Mathers III"

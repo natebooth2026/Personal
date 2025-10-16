@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2024\September-School\September-School\data.hpp(130,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2024\September-School\September-School\fileManagement.hpp(42,12): warning C4305: 'argument': truncation from 'int' to '_Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2024\September-School\September-School\fileManagement.hpp(42,12): warning C4309: 'argument': truncation of constant value
+  September-School.vcxproj -> C:\Users\Tater\OneDrive\Desktop\Disk-1\coding\PERSONAL 2024\September-School\x64\Debug\September-School.exe
