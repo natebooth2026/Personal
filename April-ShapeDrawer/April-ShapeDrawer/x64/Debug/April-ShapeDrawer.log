@@ -1,4 +1,0 @@
-﻿  drawer.cpp
-C:\Users\Tater\OneDrive\Desktop\April-ShapeDrawer\April-ShapeDrawer\drawer.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Tater\OneDrive\Desktop\April-ShapeDrawer\April-ShapeDrawer\drawer.cpp(130,7): warning C4101: 'useless': unreferenced local variable
-  April-ShapeDrawer.vcxproj -> C:\Users\Tater\OneDrive\Desktop\April-ShapeDrawer\x64\Debug\April-ShapeDrawer.exe
